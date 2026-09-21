@@ -1,0 +1,7 @@
+[package]
+name = "mhealth"        # <--- This is your app's actual binary name
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Your dependencies go here
