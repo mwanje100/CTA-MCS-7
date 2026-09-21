@@ -1,3 +1,4 @@
+# Multi-stage Docker build for minimal deployment container size
 FROM rust:1.80-slim as builder
 WORKDIR /usr/src/app
 COPY . .
